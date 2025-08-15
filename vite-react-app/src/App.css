@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+.about-section h2,
+project-section h2,
+contact-section h2 {
+  margin-bottom: 20px;
+}
